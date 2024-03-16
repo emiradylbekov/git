@@ -17,6 +17,7 @@ public class Main {
                 System.out.println("Снято: " + e.getRemainingAmount() + "сом");
                 System.out.println("Остаток на счете : 0 сом");
                 break;
+
             }
         }
 
